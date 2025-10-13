@@ -1,8 +1,4 @@
 <h2 align="center">👋 Hello! I'm Jason Iverson!</h2>
-<p> 💼 Junior Python Engineer ( AI Engineer, Data Scientist, Back-End Developer ) </p>
-<p> 🎓 Lifelong learner – always exploring new frameworks and tools ... and life? </p>
-
-## 📫 How to Reach Me
 <p align="center">
   <a href="https://www.linkedin.com/in/JasonIversooon/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,6 +9,10 @@
 <p align="center">
   <img src="https://i.imgur.com/cs4M0lL.gif" width="400" alt="The best way to react to a zombie" />
 </p>
+
+
+<p> 💼 Junior Python Engineer ( AI Engineer, Data Scientist, Back-End Developer ) </p>
+<p> 🎓 Lifelong learner – always exploring new frameworks and tools ... and life? </p>
 
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
