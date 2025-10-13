@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Anton Carino!</h2>
+<h2 align="center">👋 Hello! Jason Iverson Viñas!</h2>
 <p align="center">
   <a href="https://github.com/jasoniversooon" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -12,6 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/gallery/best-way-to-react-to-zombie-cs4M0lL" width="400" alt="The best way to react to a zombie" />
+  <img src="https://i.imgur.com/cs4M0lL.gif" width="400" alt="The best way to react to a zombie" />
 </p>
 
