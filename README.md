@@ -1,15 +1,7 @@
 <h2 align="center">👋 Hello! I'm Jason Iverson!</h2>
-<h2 align="center"> 💼 Junior Python Engineer 🤔( AI Engineer, Data Scientist, Back-End Developer ) </h2>
 
 <p align="center">
-  <img src="https://imgur.com/gallery/best-way-to-react-to-zombie-cs4M0lL" width="400" alt="The best way to react to a zombie" />
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/jasoniversooon" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
+  <img src="https://i.imgur.com/cs4M0lL.gif" width="400" alt="The best way to react to a zombie" />
 </p>
 
 
@@ -21,6 +13,20 @@
   <img src="https://img.shields.io/static/v1?label=Gmail&message=jasooon.iv@gmail.com%20&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
+💼 Junior Python Engineer ( AI Engineer, Data Scientist, Back-End Developer )
+🎓 Lifelong learner – always exploring new frameworks and tools ... and life?
+
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ## 📂 GitHub Stats
 <p align="center">
