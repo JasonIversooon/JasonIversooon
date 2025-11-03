@@ -11,7 +11,7 @@
 </p>
 
 
-<p> 💼 Junior Python Engineer ( AI Engineer, Data Scientist, Back-End Developer ) </p>
+<p> 💼 Junior Python Engineer ( AI Engineer, Back-End Developer ) </p>
 <p> 🎓 Lifelong learner – always exploring new frameworks and tools ... and life? </p>
 
 
